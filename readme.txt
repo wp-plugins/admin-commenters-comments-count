@@ -47,7 +47,7 @@ Links: [Plugin Homepage](http://coffee2code.com/wp-plugins/admin-commenters-comm
 
 = Why would I want to see a count of how many comments someone made? =
 
-There are many reason, some of which might include:
+There are many reasons, some of which might include:
 
 * Quickly identifying a first-time commenter
 * Quickly identifying unfamiliar commenters that have in fact commented before
