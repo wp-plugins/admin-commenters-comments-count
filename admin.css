@@ -1,0 +1,18 @@
+h4.comment-meta {
+	position: relative;
+}
+.author-com-count {
+	float: right;
+	text-align: center;
+	margin-right: 5px;
+	margin-top: 2px;
+	height: 1.3em;
+	line-height: 1.1em;
+}
+#dashboard_recent_comments .author-com-count {
+	margin-top: 5px;
+}
+.column-commenters_count {
+	width: 74px;
+	text-align: center;
+}
